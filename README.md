@@ -8,3 +8,4 @@ I also work as a freelancer, and I'm available to be hired.
 You can get in touch with me on `DISCORD: fortyseven#1540`
 
 PS: You can visit my [Portfolio](https://fortysev-en.github.io/) for more information.
+[![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortysev-en)](https://github.com/fortysev-en/github-readme-stats)
