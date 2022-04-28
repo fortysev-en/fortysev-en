@@ -1,3 +1,6 @@
+<p align="center"><a href="https://thefortyseven.dev/portfolio"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
+
 Hi, I’m @fortysev-en
 I’m always interested in learning new technologies reagardless of the its backgound or its existance.
 I’m currently learning ReactJS along with NodeJS and Python3.
@@ -12,5 +15,5 @@ PS: You can visit my [Portfolio](https://fortysev-en.github.io/) for more inform
 
 [![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortysev-en&show_icons=true)](https://github.com/fortysev-en/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortysev-en)](https://github.com/fortysev-en/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortysev-en&layout=compact)](https://github.com/fortysev-en/github-readme-stats)
 
