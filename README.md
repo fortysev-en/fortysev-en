@@ -1,4 +1,4 @@
-<p align="center"><a href="https://thefortyseven.dev/portfolio"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://thefortyseven.dev/portfolio"><img width="100%" src="banner.png" /></a></p>
 
 
 Hi, I’m @fortysev-en
