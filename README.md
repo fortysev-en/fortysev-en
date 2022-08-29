@@ -11,5 +11,5 @@ View my Portfolio here: [Portfolio](https://thefortyseven.dev/portfolio)
 
 You can get in touch with me on `DISCORD: fortyseven#1540`
 
-![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortysev-en&show_icons=true&count_private=true)
+![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortysev-en&count_private=true&show_icons=true&bg_color=333&icon_color=e6e6e6&title_color=e6e6e6&text_color=999999&border_color=333)
 ![Pushkar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fortyseven&bg_color=333&icon_color=e6e6e6&title_color=e6e6e6&text_color=999999&border_color=333&v=2)
