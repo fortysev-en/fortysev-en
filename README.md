@@ -7,4 +7,3 @@ View my Portfolio here: [Portfolio](https://react-portfolio-website-1b8d1.web.ap
 You can get in touch with me on `DISCORD: fortyseven#1540`
 
 ![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortysev-en&count_private=true&show_icons=true&bg_color=333&icon_color=e6e6e6&title_color=e6e6e6&text_color=999999&border_color=333)
-![Pushkar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fortyseven&bg_color=333&icon_color=e6e6e6&title_color=e6e6e6&text_color=999999&border_color=333&v=2)
