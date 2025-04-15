@@ -7,4 +7,4 @@ View my Portfolio here: [Portfolio](https://fortyseven.dev/portfolio?developer=P
 
 You can get in touch with me on `DISCORD: fortyseven#1540`
 
-![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortysev-en&count_private=true&show_icons=true&bg_color=000000&icon_color=e6e6e6&title_color=e6e6e6&text_color=999999&border_color=000000)
+![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortysev-en&count_private=true&show_icons=true&bg_color=00000000&icon_color=e6e6e6&title_color=e6e6e6&text_color=999999&border_color=00000000)
